@@ -17,4 +17,4 @@ Open your browser to `https://<JUPYTERHUB_URL>/user/<username>/proxy/8501/`
 (the trailing slash is important)
 
 
-![example screenshot](screenshot.md)
+![example screenshot](screenshot.png)
